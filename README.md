@@ -12,6 +12,8 @@ Yojana Sahayak is an AI-powered financial scheme recommender that won **Smart In
 
 **Mentors:** Dr. Rekha Kaushik & Pratham Saraf
 
+[![Live Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
 ---
 ## ⚠️ Important Notes
 - The project could **not be deployed** as the AI/ML model is too large for any **free-tier** deployment service.
